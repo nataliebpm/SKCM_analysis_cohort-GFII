@@ -6,8 +6,8 @@
 
 | Nombre | Usuario GitHub |
 |--------|:---------------:|
-| Pineda Morán Natalie Berenice | [@npineda](https://github.com/nataliebpm) |
 | Reyes Ramírez Mónica | [@mreyes](https://github.com/MonykRey) |
+| Pineda Morán Natalie Berenice | [@npineda](https://github.com/nataliebpm) |
 
 ---
 
