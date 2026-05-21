@@ -26,7 +26,7 @@
 
 Análisis de datos sobre melanoma cutáneo utilizando los archivos proporcionados: `data_mutations.txt` y `skcm_tcga_pan_can_atlas_2018_clinical_data.tsv`
 
-***Enlace al reporte renderizado***: 
+***Enlace al artículo***: https://canva.link/fpfp0r87h9yrtud
 
 ---
 
