@@ -32,10 +32,10 @@ Análisis de datos sobre melanoma cutáneo utilizando los archivos proporcionado
 
 📁 Estructura del Repositorio en GitHub
 
-- figures: imagenes finales de los análisis realizados en R
+- `figures`: imagenes finales de los análisis realizados en R
 
-- scripts: código realizado en R sobre análisis de "Driver Genes" y "Mutational signatures"
+- `scripts`: código realizado en R sobre análisis de "Driver Genes" y "Mutational signatures"
 
-- README.md
+- `README.md`
 
-- Final_Bioproject_Report: Reporte renderizado en formato html
+- `Final_Bioproject_Report`: Reporte renderizado en formato html
